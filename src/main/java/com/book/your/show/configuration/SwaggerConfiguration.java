@@ -23,9 +23,6 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @EnableWebMvc
 public class SwaggerConfiguration {
-
-//	public static final Contact DEFAULT_CONTACT = new Contact(
-//			"Blazeclan Technologies", "https://www.blazeclan.com/in/", "piyush.wadhwani@blazeclan.com");
 	
 	public static final Contact DEFAULT_CONTACT =new Contact(null, null, null);
 	
